@@ -1,3 +1,25 @@
+React home task:
+- (0.5 POINT) Implement homepage: contains a greeting message
+- (1 POINT) Implement albums page: loads list of albums from albums
+endpoint(https://jsonplaceholder.typicode.com/albums) & displaying them
+- (1 POINT) Implement album details page which should show all album photos. The id of the
+album should be taken from the URL
+(endpoint: https://jsonplaceholder.typicode.com/photos?albumId=[albumId])
+- (0.5 POINT) When a user clicks on the album on the albums page, he should be redirected to
+the album details page
+- (0.5 POINT) Add a blank todo list page with the link to it in the header
+- (1 POINT ) On the todo list page implement todo list component which should allow a user to
+add new todos & display them
+- (0.5 POINT) Add ability to remove created todo items by clicking on 'X' button near the item
+Technologies to use:
+ React
+ Redux
+ React-Redux
+ React-Router V4
+ Thunk 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
